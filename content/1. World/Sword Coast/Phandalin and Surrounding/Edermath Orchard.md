@@ -8,13 +8,11 @@ Through conversation with him, you found out that Daran is a member of the [[Ord
 
 Daran is concerned about the [[Redbrands Ruffians]], and he would like to see adventurers teach the ruffians a lesson. Like everyone else, Daran knew the Redbrands hang around the [Sleeping Giant](Sleeping%20Giant%20Inn.md) tap house, but he also told you that he'd bet the main Redbrand safe house lies under Tresendar Manor, the ruin at the east edge of town.
 
-Upon learning that you are fellow adventurers, Daran had a favor to ask you. He had heard that mining prospectors coming to [[Old Owl Well]] - a ruin northeast of Phandalin - had been chased from the area by undead. He asked you to investigate the ruins, find out who's there and what they're up to. He gave you a ring of striding and springing to aid you with the quest, and hinted that he would put in a good word with the Order of the Gauntlet, should anyone suits the characteristics and capability that they are looking for.
+Upon learning that you are fellow adventurers, Daran had a favor to ask you. He had heard that mining prospectors coming to [[Old Owl Well]] - a ruin northeast of Phandalin - had been chased from the area by undead. He asked you to investigate the ruins, find out who's there and what they're up to. He gave you a ring of striding and springing to aid you with the quest, and hinted that he would put in a good word with the [[Order of the Gauntlet]], should anyone suits the characteristics and capability that they are looking for.
 --> See [[Old Owl Trouble]].
 
 ## Related People
-
 [[Daran Edermath]]
 
 ## Related Quest
-
 [[Old Owl Trouble]]

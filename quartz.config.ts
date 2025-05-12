@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "The Forgotten Realm",
+    pageTitle: "Forgotten Realms",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "long98191.github.io/lost-mine",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "template", ".obsidian", ".trash"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
@@ -28,8 +28,8 @@ const config: QuartzConfig = {
 			weights: [400, 900],
 			includebold: true
 					},
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+		body: "EB Garamond",
+		code: "IBM Plex Mono",
       },
       colors: {
         lightMode: {
