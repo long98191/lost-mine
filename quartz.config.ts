@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "The Forgotten Realm",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -16,39 +16,43 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "github.com/long98191/lost-mine",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
+          header: {
+			name: "Cinzel",
+			weights: [400, 900],
+			includebold: true
+					},
         body: "Source Sans Pro",
         code: "IBM Plex Mono",
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#e8dcb8", /* page background */
+          lightgray: "#e5e5e5", /* borders */
+          gray: "#b8b8b8", /* graph links, heavier borders */
+          darkgray: "#B80000", /* body text */
+          dark: "#B80000", /* header text and icons */
+          secondary: "#B80000", /* link colour, current graph node */
+          tertiary: "#84a59d", /* hover states and visited graph nodes */
+          highlight: "rgb(199, 29, 0, 0.15)", /* internal link background, highlighted text, highlighted lines of code */
+          textHighlight: "#B80000", /* markdown highlighted text background */
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#e8dcb8", /* page background */
+          lightgray: "#393639", /* borders */
+          gray: "#646464", /* graph links, heavier borders */
+          darkgray: "#B80000", /* body text */
+          dark: "#B80000", /* header text and icons */
+          secondary: "#B80000", /* link colour, current graph node */
+          tertiary: "#84a59d", /* hover states and visited graph nodes */
+          highlight: "rgb(199, 29, 0, 0.15)", /* internal link background, highlighted text, highlighted lines of code */
+          textHighlight: "#B80000", /* markdown highlighted text background */
         },
       },
     },
