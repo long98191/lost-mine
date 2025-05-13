@@ -2,7 +2,7 @@
 
 ## Story so far
 
-Sildar Hallwinter is a member of the [[Lord's Alliance]], who was tasked with ensuring the law and order of Phandalin. He was ambushed and abducted on the way to Phandalin alongside his close friend [[Gundren Rockseeker]], who shared his information on the [[Wave Echo Cave]] with him. Sildar was rescued by you, but the location of Gundren is still unknown.
+Sildar Hallwinter is a member of the [[Lords' Alliance]], who was tasked with ensuring the law and order of Phandalin. He was ambushed and abducted on the way to Phandalin alongside his close friend [[Gundren Rockseeker]], who shared his information on the [[Wave Echo Cave]] with him. Sildar was rescued by you, but the location of Gundren is still unknown.
 
 After being rescued from the goblin band, Sildar let you know of a few pieces of important information:
 - The three Rockseeker brothers (Gundren, Tharden, and Nundro) recently located an entrance to the long-lost [[Wave Echo Cave]], site of the mines of the Phandelver's Pact.

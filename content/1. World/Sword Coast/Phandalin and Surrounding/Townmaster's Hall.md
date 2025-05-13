@@ -13,7 +13,7 @@ Sildar is annoyed and disatisfied that Harbin is completely  intimidated by the 
 Harbin complained about orcs raiders running loose on the Triboar Trail, near Wyvern Tor, a few days' journey east of Phandalin. He offered your party 100gp to take care of the problem.
 --> See [[Orc's Trouble]].
 
-Sildar Hallwinter, as an agent of the [[Lord's Alliance]] seeking to bringing law and order to Phandalin, believes that the only way to accomplish the task is to find the lost mine of [[Wave Echo Cave]] and the [Rockseeker](Gundren%20Rockseeker.md) brothers put it back into production. Sildar encouraged the party to keep up the pressure on the Cragmaw goblins, and offered a 500 gp reward if they can locate Cragmaw Castle and  defeat or drive off the tribe's chieftain.
+Sildar Hallwinter, as an agent of the [[Lords' Alliance]] seeking to bringing law and order to Phandalin, believes that the only way to accomplish the task is to find the lost mine of [[Wave Echo Cave]] and the [Rockseeker](Gundren%20Rockseeker.md) brothers put it back into production. Sildar encouraged the party to keep up the pressure on the Cragmaw goblins, and offered a 500 gp reward if they can locate Cragmaw Castle and  defeat or drive off the tribe's chieftain.
 --> See [[Finding Cragmaw Castle]].
 
 Sildar's fellow Lords' Alliance member, [[Iarno Albrek]], has gone missing for a few months after being assigned to the Phandalin post. Sildar's sources said that Iarno disappeared while exploring the area  around [[Tresendar Manor]]. He asked you to investigate the manor and the surrounding area to find and bring back larno - or what's left of him, if something killed him. Sildar describes larno as "a short, darkbearded human wizard in his thirties."
