@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Tharden Rockseeker
 
 ## Story so far

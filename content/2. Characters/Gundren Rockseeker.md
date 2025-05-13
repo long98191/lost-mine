@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Gundren Rockseeker
 
 ## Story so far

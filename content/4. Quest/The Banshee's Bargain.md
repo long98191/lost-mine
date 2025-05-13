@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # The Banshee's Bargain
 
 ## Story so far

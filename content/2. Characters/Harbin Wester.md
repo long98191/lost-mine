@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Harbin Wester
 
 ## Story so far

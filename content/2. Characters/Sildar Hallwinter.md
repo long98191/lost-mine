@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Sildar Hallwinter
 
 ## Story so far

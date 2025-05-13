@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Old Owl Well
 
 ## Story so far

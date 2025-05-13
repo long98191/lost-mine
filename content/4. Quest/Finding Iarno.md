@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Finding Iarno
 
 ## Story so far

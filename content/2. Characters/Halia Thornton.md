@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Halia Thornton
 
 ## Story so far

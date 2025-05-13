@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Tresendar Manor
 
 ## Story so far

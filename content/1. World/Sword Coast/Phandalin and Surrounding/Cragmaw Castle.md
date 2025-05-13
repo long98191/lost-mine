@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Cragmaw Castle
 
 ## Story so far

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Stonehill Inn
 
 > In the center of town stands a large, newly built roadhouse of fieldstone and rough-hewn timbers. The common room is filled with locals nursing mugs of ale or cider, all of them eyeing you with curiosity. 

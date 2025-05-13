@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Ruins of Thundertree
 
 ## Story so far

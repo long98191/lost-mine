@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Old Owl Trouble
 
 ## Story so far

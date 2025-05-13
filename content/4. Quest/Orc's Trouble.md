@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Orc's Trouble
 
 ## Story so far

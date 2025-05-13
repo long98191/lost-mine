@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Triboar Trail
 
 ## Story so far

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Daran Edermath
 
 ## Story so far

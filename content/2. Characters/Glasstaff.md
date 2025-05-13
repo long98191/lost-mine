@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Glasstaff
 
 ## Story so far

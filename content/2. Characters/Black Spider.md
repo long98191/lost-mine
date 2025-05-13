@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Black Spider
 
 ## Story so far

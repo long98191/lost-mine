@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Edermath Orchard
 
 ## Story so far

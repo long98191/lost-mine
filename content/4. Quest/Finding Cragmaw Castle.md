@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Quest
 
 ## Story so far

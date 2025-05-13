@@ -1,8 +1,7 @@
 ---
-title: The Continent of Faerun
 dg-publish: true
+dg-home: true
 ---
 Welcome to Faerûn, adventurers—a land steeped in legend, where ancient magic weaves through every mountain pass and shadowed forest. Kingdoms rise and fall on the whim of gods and mortals alike, and danger lurks just beyond the torchlight. From the icy peaks of the Spine of the World to the sun-scorched sands of Calimshan, this realm is a tapestry of wonder, treachery, and destiny. Whether you seek glory, gold, or redemption, know this: in Faerûn, every choice echoes through the ages. Ready your steel and steady your courage—the Realms await.
 
 You can find information about the places that you have visited (or have heard about) here.
-

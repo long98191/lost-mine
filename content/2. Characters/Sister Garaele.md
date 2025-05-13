@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Sister Garaele
 
 ## Story so far

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Conyberry
 
 ## Story so far

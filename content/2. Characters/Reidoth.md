@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Reidoth
 
 ## Story so far

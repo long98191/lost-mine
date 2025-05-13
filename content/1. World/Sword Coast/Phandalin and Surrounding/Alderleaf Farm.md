@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Alderleaf Farm
 
 ## Story so far

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Lionshield Coster
 
 > Hanging above the front door of this modest trading post is a sign shaped like a wooden shield with a blue lion painted on it.

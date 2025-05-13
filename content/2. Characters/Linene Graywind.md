@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Linene Graywind
 
 ## Story so far

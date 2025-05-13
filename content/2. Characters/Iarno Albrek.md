@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Iarno Albrek
 
 ## Story so far

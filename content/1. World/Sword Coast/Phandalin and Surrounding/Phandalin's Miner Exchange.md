@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Phandalin' Miner Exchange
 
 ## Story so far

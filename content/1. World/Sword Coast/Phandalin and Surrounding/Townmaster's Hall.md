@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Townmaster's Hall
 
 ## Story so far

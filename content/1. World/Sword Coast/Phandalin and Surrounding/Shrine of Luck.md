@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Shrine of Luck
 
 ## Story so far
